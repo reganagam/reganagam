@@ -8,9 +8,9 @@ A master’s degree student in Electrical Engineering at Gadjah Mada University.
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://ugm.ac.id/id/) | Master Student of Electrical Engineering | Yogyakarta `Feb 2025 - Present`
+#### 1. [Universitas Gadjah Mada](https://ugm.ac.id/id/) | Master's Student of Electrical Engineering | Yogyakarta `Feb 2025 - Present`
    - Awardee of Beasiswa Lembaga Pengelola Dana Pendidikan (LPDP), PK-254.
-#### 2. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `Aug 2019 - Aug 2023`
+#### 2. [Universitas Sriwijaya](https://unsri.ac.id) | Bachelor's Student of Electrical Engineering | Indralaya `Aug 2019 - Aug 2023`
    - Awardee of Beasiswa Unggulan Kemdikbud 2020.
    - Assistant Laboratorium of Basic Electronics & Electrical Circuits.
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME).
@@ -44,17 +44,18 @@ A master’s degree student in Electrical Engineering at Gadjah Mada University.
 
 ### Languages and Tools:
 
-[<img align="left" alt="English" width="30px" src="https://cdn.imgbin.com/2/12/12/imgbin-logo-primera-air-organization-business-english-language-british-flag-zSPA9W4mDSMqHmnRnzhgdxHLs.jpg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="70px" src="https://www.python.org/static/img/python-logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SQL" width="55px" src="https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Word" width="30px" src="https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ=s180-rw" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power Point" width="30px" src="https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M=s180-rw" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="English" width="30px" src="https://github.com/user-attachments/assets/3928a342-938c-4303-8c4a-2e6ecd09b1c2" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Japanese" width="30px" src="https://github.com/user-attachments/assets/de2144b5-9575-455c-890f-6e3054d6096c" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="30px" src="https://github.com/user-attachments/assets/eca2b920-2cbc-4e88-96df-1066c7eebc34" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PyTorch" width="30px" src="https://github.com/user-attachments/assets/08d10950-a214-44b3-97b0-cda7102d9786" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1280px-Tensorflow_logo.svg.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="SQL" width="30px" src="https://github.com/user-attachments/assets/fb957d34-440f-4267-a41e-40d7f5885332" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Tableau" width="30px" src="https://nextviewconsulting.com/sites/default/files/styles/large/public/icons/logo-tableau-cirkel.png?itok=CsAZTLUk" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="30px" src="https://github.com/user-attachments/assets/d14561c6-660d-4e9c-b6ed-0f0ee938dfae" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Word" width="30px" src="https://github.com/user-attachments/assets/b86c2d16-4fdf-4aac-9ab3-45cbe7e2f404" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Power Point" width="30px" src="https://github.com/user-attachments/assets/845fd96c-a11b-4b95-a8e5-73423bb0f0f5" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="TwidoSuite" width="30px" src="https://img.informer.com/icons/png/128/3398/3398456.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="RS Logic 500" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RSLogix.svg/1200px-RSLogix.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Wonderware InTouch" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg2D4joeggeJH1U1juZv0G3J4ZvX_jm__KuSTyr7KQt1S_Qw5SGujRjhWh2Rejgmx8HrI&usqp=CAU" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Livewire" width="30px" src="https://alternativesp.com/wp-content/uploads/2021/03/Livewire-600x600.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Solidworks" width="100px" src="https://www.3ds.com/assets/3ds-navigation/3DS_corporate-logo_solidworks.svg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
