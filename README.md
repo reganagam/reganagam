@@ -1,23 +1,25 @@
 # Hi there, I'm Regan Agam 👋
 ## About me:
-I am a fresh graduate of Electrical Engineering at Sriwijaya University. Focusing on concentration on Robotics Control and Computer Engineering. Certified Google TensorFlow Developer. Having a bunch of experience in computer science field and an excellent understanding of Machine Learning, Python Programming, Mathematics for Machine Learning, SQL, Spreadsheet, R Programming, and Microsoft Office. Highly organized, detailed, good analytical thinking, strong communication, problem-solving, organizational, fast learning, and troubleshooting skills. In the data field, a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. I have also completed the Google Data Analytics Certificate- a rigorous, hands-on program covering the entire data analysis process scope.
+A master’s degree student in Electrical Engineering at Gadjah Mada University. Familiar with Machine Learning and Python programming. A certified Google TensorFlow Developer, Google IT Automation with Python, Google Data Analytics, DeepLearning.AI TensorFlow Developer, and Microsoft Excel. Strongly interested in Data Science and Data Analytics. A fast learner with the ability to think analytically and critically. Experienced in working both as part of a team and individually, with good adaptability and a commitment to continuous learning.
 
-- 🤔 I’m looking for suggestions for Automation, Data Scientist, Data Engineer, Data Analyst, Machine Learning Developer
+- 🤔 I’m looking for opportunities in Data Science, Data Analytics, Machine Learning, Electrical Engineering
 - 💬 Ask me about anything
 - 📫 How to reach me: rgnagam124@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `Aug 2019 - Aug 2023`
+#### 1. [Universitas Gadjah Mada](https://ugm.ac.id/id/) | Master Student of Electrical Engineering | Yogyakarta `Feb 2025 - Present`
+   - Awardee of Beasiswa Lembaga Pengelola Dana Pendidikan (LPDP), PK-254.
+#### 2. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `Aug 2019 - Aug 2023`
    - Awardee of Beasiswa Unggulan Kemdikbud 2020.
    - Assistant Laboratorium of Basic Electronics & Electrical Circuits.
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME).
    - Presenter of Sriwijaya Electrical National Symposium (SINES).
    - Speaker of Scholarship Seminar.
-#### 2. [Bangkit Academy led by Google, Traveloka, Gojek, & Tokopedia](https://grow.google/intl/id_id/bangkit/) | Machine Learning Path Student | Indonesia `Feb 2022 - Jul 2022`
+#### 3. [Bangkit Academy led by Google, Traveloka, Gojek, & Tokopedia](https://grow.google/intl/id_id/bangkit/) | Machine Learning Path Student | Indonesia `Feb 2022 - Jul 2022`
    - Fully Graduated Student.
    - Certified Google TensorFlow Developer.
-#### 3. [Fresh Graduate Academy (FGA) by Kominfo, Digitalent Scholarship, IBM, & Dicoding](https://digitalent.kominfo.go.id/program?akademi=FGA) | Machine Learning Developer Class Student | Indonesia `Oct 2022 - Dec 2022`
+#### 4. [Fresh Graduate Academy (FGA) by Kominfo, Digitalent Scholarship, IBM, & Dicoding](https://digitalent.kominfo.go.id/program?akademi=FGA) | Machine Learning Developer Class Student | Indonesia `Oct 2022 - Dec 2022`
    - One of the best 50 from than 1.000 participants in which got exclusive merchandise.
 
 ## Work Experience:
